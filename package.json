@@ -1,0 +1,36 @@
+{
+    "name": "tokenforge",
+    "version": "1.0.0",
+    "description": "A high-performance, production-ready BPE tokenizer with universal character support and multilingual capabilities",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "jest",
+      "example": "node examples/demo.js"
+    },
+    "keywords": [
+      "tokenizer",
+      "nlp",
+      "bpe",
+      "tokenforge",
+      "subword",
+      "multilingual",
+      "unicode",
+      "natural-language-processing"
+    ],
+    "author": "Latiful Mousom",
+    "license": "MIT",
+    "devDependencies": {
+      "jest": "^29.5.0"
+    },
+    "engines": {
+      "node": ">=14.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lmousom/tokenforge.git"
+    },
+    "bugs": {
+      "url": "https://github.com/lmousom/tokenforge/issues"
+    },
+    "homepage": "https://github.com/lmousom/tokenforge#readme"
+  }
